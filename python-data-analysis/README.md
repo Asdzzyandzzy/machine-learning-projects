@@ -24,7 +24,7 @@ Create the environment from the repository root if needed:
 
 ```bash
 conda env create -f environment.yml
-conda activate cpsc330
+conda activate ml-portfolio
 jupyter lab
 ```
 
@@ -32,7 +32,7 @@ Then open `python-data-analysis.ipynb` from this folder and run the cells from t
 
 ## Results, Outputs, or Examples
 
-The notebook includes executed outputs for the data-loading exercises, Titanic fare analysis, and movie-rating array operations. The local `data/` folder contains the small CSV and text files used by the notebook.
+The notebook includes executed outputs for the data-loading checks, Titanic fare analysis, and movie-rating array operations. The local `data/` folder contains the small CSV and text files used by the notebook.
 
 ## Repository Notes
 

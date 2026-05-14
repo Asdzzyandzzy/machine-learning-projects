@@ -11,7 +11,7 @@ This project combines time series forecasting practice with short technical resp
 - Created a next-week target for average price forecasting.
 - Built and evaluated a persistence baseline.
 - Trained regression models with date and tabular features.
-- Answered technical questions on time series features and computer vision modeling choices.
+- Answered technical notes on time series features and computer vision modeling choices.
 
 ## Key Technical Points
 
@@ -27,7 +27,7 @@ From the repository root:
 
 ```bash
 conda env create -f environment.yml
-conda activate cpsc330
+conda activate ml-portfolio
 jupyter lab
 ```
 

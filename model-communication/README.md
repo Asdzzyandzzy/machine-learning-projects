@@ -9,7 +9,7 @@ This project focuses on explaining machine learning concepts and results clearly
 - Explained why churn modeling needs time-to-event framing and censoring awareness.
 - Discussed interpretation of survival functions.
 - Wrote a concise project-style explanation of the Airbnb price prediction workflow.
-- Summarized problem framing, dataset context, model choices, results, caveats, and conclusions for a non-specialist reader.
+- Summarized task framing, dataset context, model choices, results, caveats, and conclusions for a non-specialist reader.
 
 ## Key Technical Points
 
@@ -24,7 +24,7 @@ From the repository root:
 
 ```bash
 conda env create -f environment.yml
-conda activate cpsc330
+conda activate ml-portfolio
 jupyter lab
 ```
 
@@ -32,7 +32,7 @@ Open `model-communication.ipynb` to review the written responses and saved outpu
 
 ## Results, Outputs, or Examples
 
-The notebook includes a short Airbnb pricing explanation with sections for problem, dataset, model, results, caveats, and conclusion. Supporting images are included in this folder.
+The notebook includes a short Airbnb pricing explanation with sections for task, dataset, model, results, caveats, and conclusion. Supporting images are included in this folder.
 
 ## Repository Notes
 

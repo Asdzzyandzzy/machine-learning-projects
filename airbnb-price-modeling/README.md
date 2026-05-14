@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project builds an end-to-end price prediction analysis for New York City Airbnb listings. It covers problem framing, exploratory analysis, feature engineering, preprocessing, model training, and evaluation.
+This project builds an end-to-end price prediction analysis for New York City Airbnb listings. It covers task framing, exploratory analysis, feature engineering, preprocessing, model training, and evaluation.
 
 ## What I Built / Implemented
 
-- Defined a supervised learning problem for listing price prediction.
+- Defined a supervised learning task for listing price prediction.
 - Split the dataset before exploratory analysis and modeling.
 - Explored listing location, room type, and price-related patterns.
 - Built preprocessing and feature-engineering steps for tabular data.
@@ -26,7 +26,7 @@ From the repository root:
 
 ```bash
 conda env create -f environment.yml
-conda activate cpsc330
+conda activate ml-portfolio
 jupyter lab
 ```
 

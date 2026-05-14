@@ -1,5 +1,5 @@
-# install with conda env create -f cpsc330env.yml 
-name: 'cpsc330'
+# install with conda env create -f environment.yml
+name: 'ml-portfolio'
 channels:
     - conda-forge
     - pytorch
@@ -47,7 +47,6 @@ dependencies:
     # - pytorch     # Let students install it on their own
     - pip:
         - mglearn
-        - otter-grader
         - graphviz        
         - nbformat
         - nbclient

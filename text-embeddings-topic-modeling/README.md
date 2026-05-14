@@ -27,7 +27,7 @@ From the repository root:
 
 ```bash
 conda env create -f environment.yml
-conda activate cpsc330
+conda activate ml-portfolio
 jupyter lab
 ```
 
